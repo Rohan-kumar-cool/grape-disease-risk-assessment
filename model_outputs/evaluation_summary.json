@@ -1,0 +1,16 @@
+{
+  "test_images": 344,
+  "accuracy": 0.9593023255813954,
+  "balanced_accuracy": 0.9511356432095702,
+  "macro_f1": 0.9526676997884858,
+  "class_names": [
+    "Downy Mildew",
+    "Healthy Leaves",
+    "Powdery Mildew"
+  ],
+  "class_to_index": {
+    "Downy Mildew": 0,
+    "Healthy Leaves": 1,
+    "Powdery Mildew": 2
+  }
+}

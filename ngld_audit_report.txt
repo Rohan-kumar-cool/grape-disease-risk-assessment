@@ -1,0 +1,679 @@
+Dataset folder: /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset
+Total images: 2626
+Unreadable images: 0
+Exact duplicate copies: 333
+
+Class counts:
+Downy Mildew: 966
+Healthy Leaves: 1254
+Powdery Mildew: 406
+
+Unreadable image details:
+
+Exact duplicate pairs:
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_461.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_716.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_4.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_886.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1019.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_138.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_703.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_448.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_717.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_462.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_893.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_11.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_892.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_10.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_919.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_38.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_460.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_715.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_474.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_729.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_728.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_473.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_13.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_895.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_885.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_3.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_449.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_704.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_12.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_894.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_313.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1194.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_14.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_896.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_139.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1020.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_39.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_920.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_458.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_713.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_15.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_897.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_302.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1183.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_714.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_459.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_671.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_416.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_882.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_628.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_855.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_600.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_869.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_614.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_505.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_760.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_172.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1053.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_166.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1047.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_844.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_589.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_71.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_952.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_506.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_761.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_577.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_832.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_672.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_417.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_658.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_403.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1052.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_171.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1046.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_165.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_563.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_818.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_947.png
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_66.png
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_953.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_72.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_5.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_73.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_198.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1079.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_70.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_951.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_64.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_945.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_507.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_762.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_105.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_986.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_576.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_831.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_857.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_602.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1045.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_164.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1051.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_170.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_665.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_410.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_511.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_766.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_101.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_982.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_825.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_570.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_969.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_88.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_160.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1041.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_174.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1055.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_944.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_63.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_173.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1054.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_159.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1040.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_826.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_571.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_887.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_954.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_565.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_820.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_868.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_613.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1030.png
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_149.png
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_660.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_405.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_662.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_407.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1044.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_163.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_516.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_771.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_114.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_995.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_504.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_759.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_175.png
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1056.png
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_822.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_567.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_161.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1042.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_955.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_74.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_853.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_598.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_199.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1080.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_930.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_49.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_99.png
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_980.png
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_956.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_75.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_942.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_61.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_821.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_566.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_76.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_957.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_503.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_758.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_113.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_994.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_515.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_770.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1057.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_176.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1043.png
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_162.png
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_667.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_412.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1034.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_153.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_500.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_755.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_968.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_87.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1106.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_225.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_798.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_543.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_931.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_50.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_835.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_580.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_932.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_51.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_850.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_595.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_926.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_45.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_15.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_86.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_542.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_797.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_15.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_967.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_499.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_754.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1072.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_191.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1066.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_185.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_558.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_813.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1027.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_146.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_224.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1105.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_689.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_434.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1031.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_150.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1025.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_144.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_556.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_811.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1068.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_187.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_501.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_756.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_184.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1065.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_823.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_568.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_190.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1071.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_795.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_540.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_178.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1059.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_971.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_90.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_965.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_84.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_809.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_554.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_934.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_53.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_852.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_597.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_933.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_52.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_966.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_85.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_177.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1058.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_972.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_91.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_824.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_569.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_539.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_794.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_77.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_958.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_89.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_970.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_189.png
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1070.png
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_502.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_757.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_488.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_743.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1073.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_192.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_549.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_804.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_555.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_810.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1026.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_145.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1032.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_151.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_676.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_421.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_664.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_409.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_635.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_380.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1036.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_155.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1022.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_141.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_559.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_814.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_498.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_753.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_529.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_784.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_167.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1048.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_806.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_551.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_179.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1060.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_193.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1074.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_937.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_56.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_841.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_586.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_847.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_592.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_924.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_43.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_833.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_578.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_805.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_550.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_799.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_544.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_961.png
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_80.png
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_560.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_815.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1064.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_183.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_574.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_829.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1078.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_197.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1049.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_168.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1021.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_140.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_881.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_626.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1035.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_154.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_673.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_418.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_236.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1117.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1023.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_142.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1037.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_156.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_548.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_803.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_562.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_817.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_489.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_744.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_538.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_793.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_963.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_82.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_807.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_552.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_801.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_546.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_977.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_96.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_196.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1077.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_182.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1063.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_840.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_585.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_936.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_55.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_949.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_68.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_935.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_54.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_921.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_40.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_181.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1062.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_195.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1076.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_978.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_97.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_964.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_83.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_808.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_553.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_81.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_962.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_95.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_976.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_561.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_816.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_547.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_802.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1075.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_194.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1024.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_143.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1250.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_369.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_688.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_433.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_752.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_497.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_401.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_656.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_610.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_865.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_616.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_871.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_426.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_681.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_440.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_695.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_467.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_722.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_58.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_939.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_763.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_508.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_789.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_534.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_775.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_520.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_158.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1039.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1127.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_246.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_909.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_27.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_157.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1038.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_776.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_521.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_790.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_535.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_57.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_938.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_28.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_910.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_439.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_694.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_425.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_680.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_615.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_870.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_609.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_864.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_751.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_496.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_737.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_482.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_710.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_455.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_291.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1172.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_712.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_457.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_698.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_443.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_749.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_494.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_17.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_899.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_611.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_866.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_441.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_696.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_427.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_682.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_454.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_709.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_466.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_721.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_778.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_523.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_792.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_537.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_912.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_30.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_906.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_24.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_627.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_31.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_791.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_536.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_777.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_522.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1159.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_278.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_32.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_913.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_25.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_907.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_465.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_720.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_612.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_867.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_618.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_873.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_413.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_668.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_736.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_481.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_750.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_495.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_16.png
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_898.png
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_697.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_442.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1205.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_324.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_711.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_456.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_707.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_452.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_701.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_446.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_432.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_687.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_608.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_863.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_469.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_724.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_463.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_718.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_122.png
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1003.png
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_781.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_526.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_787.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_532.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_903.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_21.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1150.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_269.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_788.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_533.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_782.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_527.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_35.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_916.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_20.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_902.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_122.png
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1016.png
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_464.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_719.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_470.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_725.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_607.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_862.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_621.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_876.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_431.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_686.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_7.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_889.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_739.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_484.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_745.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_490.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_702.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_447.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_708.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_453.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_700.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_445.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_706.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_451.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_734.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_479.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_741.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_486.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_122.png
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_135.png
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_747.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_492.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_990.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_109.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_435.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_690.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_593.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_848.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_605.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_860.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_947.png
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_280.png
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_472.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_727.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_47.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_928.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_18.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_900.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_890.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_8.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_147.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1028.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1138.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_257.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_119.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1000.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_774.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_519.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_904.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_22.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_917.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_36.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_335.png
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1216.png
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_918.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_37.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1123.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_242.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_779.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_524.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_785.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_530.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_148.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1029.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_891.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_9.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_34.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_915.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_471.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_726.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_620.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_875.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_947.png
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1161.png
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_606.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_861.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_594.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_849.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_436.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_691.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_430.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_685.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_989.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_108.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1015.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_134.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_1001.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_120.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_391.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_646.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_742.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_487.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_733.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_478.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_705.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_450.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_699.jpg
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Healthy Leaves/Healthy Leaves_444.jpg
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Powdery Mildew/Powdery Mildew_404.JPG
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Powdery Mildew/Powdery Mildew_398.JPG
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Powdery Mildew/Powdery Mildew_403.JPG
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Powdery Mildew/Powdery Mildew_373.JPG
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Powdery Mildew/Powdery Mildew_389.JPG
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Powdery Mildew/Powdery Mildew_369.JPG
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Powdery Mildew/Powdery Mildew_368.JPG
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Powdery Mildew/Powdery Mildew_378.JPG
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Powdery Mildew/Powdery Mildew_367.JPG
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Powdery Mildew/Powdery Mildew_387.JPG
+/Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Powdery Mildew/Powdery Mildew_382.JPG
+  = /Users/rohankumar/Documents/scproject/grape_research_v2/NGLD/NGLD/Grapes Disease Dataset/Powdery Mildew/Powdery Mildew_390.JPG

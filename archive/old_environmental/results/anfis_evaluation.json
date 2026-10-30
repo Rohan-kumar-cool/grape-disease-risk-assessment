@@ -1,0 +1,64 @@
+{
+  "dataset_records": 600,
+  "train_records": 480,
+  "test_records": 120,
+  "features": [
+    "air_temp",
+    "air_hum",
+    "pluvm"
+  ],
+  "target": "combined_target",
+  "target_counts": {
+    "0": 510,
+    "1": 90
+  },
+  "anfis": {
+    "accuracy": 0.8333333333333334,
+    "balanced_accuracy": 0.49019607843137253,
+    "macro_f1": 0.45454545454545453,
+    "training_mse": 0.10915197985056366,
+    "confusion_matrix": [
+      [
+        100,
+        2
+      ],
+      [
+        18,
+        0
+      ]
+    ],
+    "classification_report": {
+      "0": {
+        "precision": 0.847457627118644,
+        "recall": 0.9803921568627451,
+        "f1-score": 0.9090909090909091,
+        "support": 102.0
+      },
+      "1": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 18.0
+      },
+      "accuracy": 0.8333333333333334,
+      "macro avg": {
+        "precision": 0.423728813559322,
+        "recall": 0.49019607843137253,
+        "f1-score": 0.45454545454545453,
+        "support": 120.0
+      },
+      "weighted avg": {
+        "precision": 0.7203389830508474,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.7727272727272727,
+        "support": 120.0
+      }
+    }
+  },
+  "majority_baseline": {
+    "accuracy": 0.85,
+    "balanced_accuracy": 0.5,
+    "macro_f1": 0.4594594594594595
+  },
+  "caution": "Combined target is derived from treatment-associated source labels; it is not independently confirmed disease occurrence or calibrated risk."
+}

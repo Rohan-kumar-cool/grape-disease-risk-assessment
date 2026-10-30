@@ -1,0 +1,41 @@
+Dataset: /Users/rohankumar/Documents/scproject/grape_research_v2/environmental_data/environmental_cleaned.csv
+
+Shape: (1511, 11)
+
+Columns:
+date
+air_hum
+air_hum_min
+air_hum_max
+air_temp
+air_temp_min
+air_temp_max
+pluvm
+down_mildew
+powdery_mildew
+source_file
+
+Missing values:
+date              0
+air_hum           0
+air_hum_min       0
+air_hum_max       0
+air_temp          0
+air_temp_min      0
+air_temp_max      0
+pluvm             0
+down_mildew       0
+powdery_mildew    0
+source_file       0
+
+Numeric summary:
+                 count       mean        std        min        25%        50%        75%        max
+air_hum         1511.0  70.516182  14.166995  31.256250  59.803462  70.374074  81.816565  98.208511
+air_hum_min     1511.0  52.336995  18.887235   0.000000  38.150000  48.400000  64.800000  97.600000
+air_hum_max     1511.0  86.104567   8.622617  44.800000  81.500000  87.900000  92.650000  99.500000
+air_temp        1511.0  15.140232   7.988730  -0.971343   8.450818  14.400556  22.128211  31.856892
+air_temp_min    1511.0   9.388657   6.833966  -6.010000   3.485000   9.240000  15.315000  23.080000
+air_temp_max    1511.0  21.432972   9.323594   1.110000  13.555000  20.970000  29.570000  40.920000
+pluvm           1511.0   0.027211   0.101712   0.000000   0.000000   0.000000   0.004255   1.916667
+down_mildew     1511.0   0.135010   0.341847   0.000000   0.000000   0.000000   0.000000   1.000000
+powdery_mildew  1511.0   0.138319   0.345349   0.000000   0.000000   0.000000   0.000000   1.000000

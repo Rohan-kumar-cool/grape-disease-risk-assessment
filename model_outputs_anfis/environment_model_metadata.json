@@ -1,0 +1,21 @@
+{
+  "features": [
+    "temp_5d",
+    "rh_5d",
+    "rh_min_5d",
+    "rh_max_5d",
+    "rain_5d",
+    "wet_days_5d",
+    "dpd_night_5d"
+  ],
+  "targets": [
+    "powdery_label",
+    "downy_label"
+  ],
+  "train_records": 1056,
+  "train_date_range": [
+    "2020-02-28",
+    "2023-01-26"
+  ],
+  "note": "Outputs learn rule-generated weather-favourability labels; they are not validated field disease probabilities."
+}

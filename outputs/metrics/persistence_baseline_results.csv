@@ -1,0 +1,3 @@
+disease,model,test_rows_available,evaluated_rows,coverage,accuracy,balanced_accuracy,macro_f1,consecutive_calendar_days_pct
+down_mildew,previous_observation_persistence,303,303,1.0,0.9504950495049505,0.8928003972194638,0.8884197088355879,99.33993399339934
+powdery_mildew,previous_observation_persistence,303,303,1.0,0.9504950495049505,0.8928003972194638,0.8884197088355879,99.33993399339934
